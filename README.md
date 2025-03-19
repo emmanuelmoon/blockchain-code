@@ -39,11 +39,6 @@ To get started with this project, follow these steps:
 
 Refer to the documentation for detailed usage instructions and examples.
 
-## Contributors
-
-- **Emmanuel** - [emmanuelmoon](https://github.com/emmanuelmoon)
-- **Muhammad Hamza Gova** - [muhammadhamzagova666](https://github.com/muhammadhamzagova666)
-
 ## Contributing
 
 We welcome contributions from the community to enhance and expand the functionality of this project. To contribute, follow these steps:
@@ -62,6 +57,11 @@ We welcome contributions from the community to enhance and expand the functional
     git push origin feature-name
     ```
 5. Create a pull request detailing your changes.
+
+## Contributors
+
+- **Emmanuel** - [emmanuelmoon](https://github.com/emmanuelmoon)
+- **Muhammad Hamza Gova** - [muhammadhamzagova666](https://github.com/muhammadhamzagova666)
 
 ---
 
