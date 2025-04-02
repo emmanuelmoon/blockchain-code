@@ -20,6 +20,12 @@ venv
 docs.zip
 archive.zip
 
+# Environment variables - contain sensitive data
+.env
+.env.*
+**/.env
+**/.env.*
+
 # vim temporary files
 *~
 .*.sw?
